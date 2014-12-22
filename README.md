@@ -35,8 +35,20 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-Horæ succisivæ, or, Spare-houres of meditations upon our duty to [brace] God, others, our selves / b
+
+1. TO
+The Right Honourable
+LADIE, the
+LADIE ANNE
+COTTINGTON.
+
 #####Body#####
+
+1. Horae Succisivae,
+OR
+SPARE-HOVRES
+of
+MEDITATIONS.
 MAke God the
 first and last
 of all thy
@@ -44,7 +56,7 @@ actions: so
 beginne that
 thou maist have him in
 the end, othe
-1. SPARE
+    _ SPARE
 HOVRES
 of Meditations.
 
